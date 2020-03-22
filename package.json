@@ -1,0 +1,33 @@
+{
+  "name": "markdown-it-add-attrs",
+  "version": "1.0.0",
+  "description": "Add attributes to all the elements rendered by markdown-it",
+  "keywords": [
+    "markdown-it-plugin",
+    "markdown-it",
+    "attribute",
+    "class"
+  ],
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/privatenumber/markdown-it-add-attrs.git"
+  },
+  "author": "Hiroki Osame <hiroki.osame@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/privatenumber/markdown-it-add-attrs/issues"
+  },
+  "homepage": "https://github.com/privatenumber/markdown-it-add-attrs#readme",
+  "devDependencies": {
+    "jest": "^25.1.0",
+    "markdown-it": "^10.0.0"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
