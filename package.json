@@ -1,6 +1,6 @@
 {
   "name": "markdown-it-add-attrs",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "markdown-it plugin to add attributes to all rendered elements",
   "keywords": [
     "markdown-it-plugin",
