@@ -7,12 +7,12 @@
 So I can specifically target the markdown using a [markdown stylesheet](https://github.com/sindresorhus/github-markdown-css) without interfering with some of the other code in the markdown.
 
 
-## Install
+## :rocket: Install
 ```
 $ npm i markdown-it-add-attrs
 ```
 
-## Usage
+## :blue_book: Usage
 ```js
 import addAttrsPlugin from 'markdown-it-add-attrs';
 
@@ -24,5 +24,5 @@ md.use(addAttrsPlugin, {
 
 ```
 
-## License
+## :black_nib: License
 MIT
